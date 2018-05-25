@@ -1,2 +1,3 @@
-#index.php
-<?php phpinfo(); ?>
+<?php
+
+phpinfo();
