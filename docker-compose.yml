@@ -1,0 +1,7 @@
+php:
+  image: php-unit
+  ports:
+    - "8300:8300"
+  volumes:
+    - ./applications:/applications
+
